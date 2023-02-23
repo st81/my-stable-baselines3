@@ -8,8 +8,6 @@ setuptools.setup(
     author_email="cmtaro@example.com",
     license='MIT',
     description="You can receive AWS Service Name.",
-    long_description=long_description,
-    long_description_content_type="text/markdown",
     url="https://github.com/st81/tutorial-pip-github-repo",
     classifiers=[
         "Programming Language :: Python :: 3",
